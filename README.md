@@ -71,3 +71,13 @@ Now, let's look at the other aspect of discretization of amplitude. Take for ins
 ![](img/dirac-delta.png)
 
 Very short amplitude in time.
+
+### The unit step
+
+![](img/06-step-signal.png)
+
+Very short amplitude in time.
+
+### Exponential decay signal
+
+![](img/07-exponential-decay.png)
